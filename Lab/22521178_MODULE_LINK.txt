@@ -1,0 +1,10 @@
+Name: Hoàng Ngọc Quân 
+ID: 22521178
+Assignment: 1, 2, 3, 4
+
+This is linkS to my practice for assignments that develop a image operations module. 
+
+Youtube demo: https://youtu.be/EcjI4TKktR4?feature=shared
+GitHub: https://github.com/QuanHoangNgoc/Image_Ops_Lib
+Kaggle Notebook: https://www.kaggle.com/code/quanhoangngoc/imlib/notebook
+
