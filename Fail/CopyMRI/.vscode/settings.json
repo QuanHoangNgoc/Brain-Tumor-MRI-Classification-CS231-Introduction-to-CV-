@@ -1,0 +1,81 @@
+{
+  //* editor
+  "editor.fontFamily": "'Fira Code', sans-serif",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.fontWeight": 380,
+  "editor.fontSize": 12,
+
+  //* stick scroll
+  "scroll": true,
+
+  //* edit terminal
+  "terminal.integrated.fontFamily": "Fira Code",
+  // "terminal.integrated.lineHeight": 1,
+  // "terminal.integrated.fontWeight": 380,
+  "terminal.integrated.fontSize": 12,
+
+  //* format code
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // c++
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  // sql
+  "[sql]": {
+    "editor.defaultFormatter": "cymonk.sql-formatter"
+  },
+  // python
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+    // "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.analysis.typeCheckingMode": "off",
+  // java
+  "[java]": {
+    // "editor.suggest.snippetsPreventQuickSuggestions": false
+    "editor.defaultFormatter": "redhat.java"
+  },
+  // auto format when save
+  //? ***
+  "editor.formatOnSave": true,
+
+  //* set default cpp
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+
+  //* pip library in python
+  "python.analysis.extraPaths": [
+    "C:\\Users\\Admin\\AppData\\Roaming\\Python\\Python311\\Lib\\site-packages"
+  ],
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+
+  // //* background anime
+  // "background.enabled": false,
+  // "background.loop": false,
+  // "background.useDefault": false,
+  // "background.useFront": false,
+  // "background.style": {
+  //   "content": "''",
+  //   "pointer-events": "none",
+  //   "position": "absolute",
+  //   "z-index": "99999",
+  //   "width": "100%",
+  //   "height": "100%",
+  //   "margin-left": "0%",
+  //   "background-position": "right",
+  //   "background-size": "cover",
+  //   "background-repeat": "no-repeat",
+  //   "opacity": 0.3
+  // },
+  // "background.customImages": [
+  //   // "https://phunugioi.com/hinh-nen-anime-dep-de-thuong-cute-buon-ngau-lanh-lung/anime-original-15-uhd-desktop-wallpaper-for-4k-ultra-hd-tv-jpg/"
+  // ],
+  // // animation:
+  // "editor.cursorSmoothCaretAnimation": "off"
+  //* end setting
+}
