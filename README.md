@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project delves into Brain Tumor MRI Classification, providing our initial foray into research-like endeavors. It aims to enhance skills in literature review, solution mapping, and applying techniques introduced in our course. We implement a standard Image Classification pipeline and explore creative, data-driven improvements through analysis of insights and errors. The project concludes with a comparison of our solutions to related work, drawing valuable conclusions and identifying future work opportunities. 
+This project delves into Brain Tumor MRI Classification, providing our initial foray into research-like endeavors. It aims to enhance skills in literature review, solution mapping, and applying techniques introduced in our course. We implement a standard Image Classification pipeline and explore creative, data-driven improvements by analyzing insights and errors. The project concludes by comparing our solutions to related work, drawing valuable conclusions, and identifying future work opportunities. 
 
 ## Used By
 
@@ -17,6 +17,7 @@ This project serves as a resource for:
 1. **Literature Review and Solution Mapping**
    - Identify feasible topics and refine them to narrow scopes.
    - Conduct research to understand pipeline, techniques, and direction mapping.
+      - Search some papers in the field or relation to have a general understanding of pipeline, techniques, and direction mapping.     
 
 2. **Image Classification Pipeline**
    - **Image Pre-processing:** Resize, format channel form, and adjust pixel value range.
@@ -38,13 +39,14 @@ This project serves as a resource for:
 - **Process Record:** Google Docs
 - **Presentation:** PowerPoint
 - **Topic Finding:** Jenni-AI, Google Search, Gemini
+   - Find driven-dataset > topic > problem. Use Jenni-AI and Google Search to find papers, and Gemini to explain them and recommend (link them) some trend or value directions. 
 - **Frameworks & Libraries:**
   - **Image Operations:** numpy, skimage
   - **Dataset Exploration & Display:** pandas, matplotlib, skimage, opencv
   - **Feature Extraction & Reduction:** numpy, skimage, sklearn
   - **Dataset Splitting:** sklearn (train_test_split)
   - **PCA:** sklearn (pca)
-  - **Training & Evaluation:** sklearn, keras
+  - **Training & Evaluation:** sklearn, keras, sklearn-cross_validation
 
 ## Lessons Learned
 
@@ -54,7 +56,7 @@ This project serves as a resource for:
 
 ## Feedback
 
-For any feedback or inquiries, please reach out to us at [22521178@gm.uit.edu.vn](mailto:22521178@gm.uit.edu.vn).
+For any feedback or inquiries, please contact us at [22521178@gm.uit.edu.vn](mailto:22521178@gm.uit.edu.vn).
 
 ## License
 
